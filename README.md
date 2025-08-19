@@ -1,11 +1,12 @@
 ## 📂 Struktur Repo
-
+```bash
 super-telegram-bot/
 ├── 📂 bot.py
 ├── 📂 requirements.txt
 ├── 📂 .env.example
 ├── 📂 README.md
 └── 📂 LICENSE
+```
 
 ## 📄 .env.example
 # Ganti dengan token bot kamu dari BotFather
