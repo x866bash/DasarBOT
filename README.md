@@ -96,6 +96,11 @@ Bot akan otomatis membuat file database SQLite sesuai path di .env.
 /reminder_del 7
 ```
 
+## 🛠️  Teknologi
+🛠️  [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot)
+🛠️  SQLite (default DB)
+🛠️  OpenWeatherMap API
+
 ## 📄 LICENSE (MIT)
 ```bash
 MIT License
