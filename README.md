@@ -9,6 +9,7 @@ super-telegram-bot/
 ```
 
 ## 📄 .env.example
+***
 # Ganti dengan token bot kamu dari BotFather
 BOT_TOKEN=isi_token_bot_disini
 
@@ -20,6 +21,7 @@ TZ=Asia/Jakarta
 
 # Lokasi database SQLite
 DATABASE_PATH=bot_data.sqlite3
+***
 
 # 🤖 Telegram Bot
 
@@ -51,7 +53,7 @@ pip install -r requirements.txt
 ```
 
 ## Siapkan File .env
-Buat file .env berdasarkan .env.example lalu isi:
+**Buat file .env berdasarkan .env.example lalu isi:**
 ```bash
 BOT_TOKEN=isi_token_bot_dari_botfather
 OPENWEATHER_API_KEY=isi_api_key_openweather
@@ -63,7 +65,7 @@ DATABASE_PATH=bot_data.sqlite3
 ```bash
 python bot.py
 ```
-Bot akan otomatis membuat file database SQLite sesuai path di .env.
+**Bot akan otomatis membuat file database SQLite sesuai path di .env.**
 
 ## 📌 Contoh Pemakaian
 ## CATATAN
@@ -98,9 +100,9 @@ Bot akan otomatis membuat file database SQLite sesuai path di .env.
 ```
 
 ## 🛠️  Teknologi
-🛠️  [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot)
-🛠️  SQLite (default DB)
-🛠️  OpenWeatherMap API
+🛠️  [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot)<br/>
+🛠️  SQLite (default DB)<br/>
+🛠️  OpenWeatherMap API<br/>
 
 ## 📄 LICENSE (MIT)
 ```bash
