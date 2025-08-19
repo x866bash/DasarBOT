@@ -1,27 +1,14 @@
+## BOT
+Baru belajar bikin bot jadi ya gini aja yah, kalo mau yang istimewa silahkan di kembangkan lagi.
+
 ## 📂 Struktur Repo
 ```bash
 super-telegram-bot/
 ├── 📂 bot.py
 ├── 📂 requirements.txt
-├── 📂 .env.example
+├── 📂 .env
 ├── 📂 README.md
 └── 📂 LICENSE
-```
-
-## 📄 .env.example
-***
-# Ganti dengan token bot kamu dari BotFather
-BOT_TOKEN=isi_token_bot_disini
-
-# API Key OpenWeatherMap
-OPENWEATHER_API_KEY=isi_api_key_openweather
-
-# Timezone (default Asia/Jakarta)
-TZ=Asia/Jakarta
-
-# Lokasi database SQLite
-DATABASE_PATH=bot_data.sqlite3
-***
 
 # 🤖 Telegram Bot
 
