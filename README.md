@@ -2,6 +2,7 @@
 Baru belajar bikin bot jadi ya gini aja yah, kalo mau yang istimewa silahkan di kembangkan lagi.
 
 ## 📂 Struktur Repo
+
 ```bash
 super-telegram-bot/
 ├── 📂 bot.py
@@ -9,7 +10,7 @@ super-telegram-bot/
 ├── 📂 .env
 ├── 📂 README.md
 └── 📂 LICENSE
-
+```
 # 🤖 Telegram Bot
 
 Bot Telegram serbaguna dengan fitur:
