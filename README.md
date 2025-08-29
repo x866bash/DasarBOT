@@ -25,7 +25,7 @@ Bot Telegram serbaguna dengan fitur:
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/username/super-telegram-bot.git
+git clone https://github.com/x866bash/DasarBOT.git
 cd super-telegram-bot
 ```
 
